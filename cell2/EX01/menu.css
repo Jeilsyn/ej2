@@ -1,0 +1,52 @@
+.style1{
+    text-align:center  ;
+    font-family:monospace 20%;
+    margin-right: auto;
+    margin-left: auto;
+    color: yellow;
+    -webkit-text-size-adjust: 90vw;
+    border-color:black;
+    -webkit-text-stroke: 2px black;
+}
+
+.body{
+    background-image: url('https://i.pinimg.com/originals/b3/a5/ef/b3a5ef75af1d8109da9730e347f6914c.jpg');
+background-repeat:no-repeat;
+background-size: 100%;
+background-size: 100vw;
+background-image: 100vw;
+}
+.line-middle {
+height: 04px;
+background-color: greenyellow;
+width:100%;
+width:100vw;
+border:solid black;
+}
+.dropdown {
+    display:inline-block;
+    position: relative;
+}
+.style2 {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: monospace 12%;
+    color: solid black;
+}
+.options {
+    background-color: lightcoral;
+    font-family: monospace 10%;
+    width:100%;
+    
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top: 10 px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding: auto;
+
+    
+}
